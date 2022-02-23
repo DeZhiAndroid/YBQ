@@ -10,7 +10,7 @@ public class OutCallReceiver extends BroadcastReceiver {
 
     @Override
     public void onReceive(Context context, Intent intent) {
-        Toast.makeText(context, "拨打电话了1", Toast.LENGTH_SHORT).show();
+        Toast.makeText(context, "拨打电话了12", Toast.LENGTH_SHORT).show();
 
     }
 }
